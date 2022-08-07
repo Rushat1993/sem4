@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\bin\Debug\net6.0\tas4.exe
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\bin\Debug\net6.0\tas4.deps.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\bin\Debug\net6.0\tas4.runtimeconfig.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\bin\Debug\net6.0\tas4.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\bin\Debug\net6.0\tas4.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\refint\tas4.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\tas4.genruntimeconfig.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\tas4\obj\Debug\net6.0\ref\tas4.dll
